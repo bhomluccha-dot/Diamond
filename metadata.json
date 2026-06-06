@@ -1,0 +1,6 @@
+{
+  "name": "Diamond Wala",
+  "description": "Play 200+ exciting games, complete surveys and offerwalls, earn tokens, and get free redeem codes instantly!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
